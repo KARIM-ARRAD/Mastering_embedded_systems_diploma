@@ -1,5 +1,3 @@
-Embedded_System_Online_Diploma
-
 Embedded system online diploma by eng. Keroles karam
 
 Contact Info
